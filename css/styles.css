@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: black;
+}
+
+.navbar a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 100px;
+    text-align: center;
+    background: linear-gradient(to right, green, red);
+}
+
+.intro {
+    padding: 50px;
+    text-align: center;
+    background: #111827;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: black;
+}
